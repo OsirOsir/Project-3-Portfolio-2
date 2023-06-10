@@ -1,0 +1,15 @@
+footer {
+  width: 100%;
+  background-color: black;
+  padding: 1%;
+}
+
+.footer-box {
+  display: flex;
+  justify-content: center;
+}
+
+.span1 {
+  color: white;
+  font-size: 12px;
+}
